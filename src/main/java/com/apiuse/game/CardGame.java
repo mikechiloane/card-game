@@ -1,6 +1,6 @@
 package com.apiuse.game;
 
-public interface cardGame {
+public interface CardGame {
 
 
     void run();

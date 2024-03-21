@@ -8,9 +8,9 @@ import com.apiuse.domain.deck.fiveCardDraw.FiveCardDrawDeck;
 import com.apiuse.domain.hand.Hand;
 import com.apiuse.domain.hand.HandResult;
 import com.apiuse.domain.hand.HandEvaluator;
-import com.apiuse.game.cardGame;
+import com.apiuse.game.CardGame;
 
-public class FiveCardDraw implements cardGame {
+public class FiveCardDraw implements CardGame {
 
     private final Deck deck = new FiveCardDrawDeck();
     private final Shuffler shuffler;
