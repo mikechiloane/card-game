@@ -1,0 +1,9 @@
+<archetype>
+  <id>five-card-draw</id>
+  <sources>
+    <source>src/com.apiuse.main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
